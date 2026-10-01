@@ -3,7 +3,7 @@ name: Hello World
 # Événement Déclancher
 on:
   push:
-    # Travaille a effectué
+# Travaille a effectué
 jobs:
   hello:
     runs-on: ubuntu-latest
